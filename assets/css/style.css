@@ -1,0 +1,26 @@
+.body-container {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 5px;
+    border: 5px solid green;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+.vision {
+    border: 4px solid red;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 10px;
+    padding: 10px;
+}
+.vision .text {
+
+}
+#top-img {
+    text-align: justify-all;
+}
