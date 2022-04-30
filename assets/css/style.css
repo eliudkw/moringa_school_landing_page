@@ -1,26 +1,115 @@
-.body-container {
-    display: flex;
-    flex-direction: column;
-    margin: 5px;
-    padding: 5px;
-    border: 5px solid green;
-}
-
-img {
-    height: 50%;
-    width: 50%;
-}
-
-.vision {
-    border: 4px solid red;
-    display: flex;
-    flex-wrap: nowrap;
-    margin: 10px;
+body{
+    margin: 10px 30px;
+    border: 1px solid red;
     padding: 10px;
 }
-.vision .text {
+*{
+    font-family: 'Nunito',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* container for everything inside the nav */
+.nav-container {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* logo */
+.logo {
+    font-weight: bolder;
+    font-size: 1em;
+}
+.logo span {
+    color: #EC4067;
+}
+
+/*nav links */
+.nav-links {
+    position: relative;
+    display: flex;
+    text-decoration: none;
+}
+.links {
+    list-style-type: none;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+.links a {
+    text-decoration: none;
+    color: black;
+}
+.btn button {
+    width: 80px;
+    height: 40px;
+    /*position: relative;*/
+    left: 400px;
+    margin-top: 50px;
+    background-color: #EC4067;
+    color: white;
+}
+.btn a {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+}
+h2 {
+    color: #EC4067;
+    font-size: 35px;
+}
+.main-container {
+    display: flex;
+    margin: 100px 300px;
+    border: 1px solid green;
+    padding: 5px;
 
 }
-#top-img {
-    text-align: justify-all;
+img{
+    width: 450px;
+    height: 300px;
 }
+
+.success-container {
+    margin: 100px 300px;
+    border: 1px solid blue;
+}
+.bt-title {
+    margin: 20px 0;
+    border: 1px solid yellow;
+    padding: 5px;
+}
+.stories {
+    margin: 20px 0;
+    border: 1px solid turquoise;
+    display: flex;
+    padding: 5px;
+}
+h3 {
+    font-weight: 5000;
+    font-size: 2em;
+}
+.img-1 {
+    margin-top: 5px;
+}
+.img-2 {
+    margin: 40px;
+}
+.img-2 .btn-1 {
+    background-color: #EC4067;
+    text-decoration: none;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+}
+.stories button, a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.05em;
+}
+
