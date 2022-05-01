@@ -57,7 +57,7 @@ As a user of the web page, you will be able to:
 
 ### Live Link
 -Click the live link at the about section in the main branch or direct link below
-https://github.com/aliceauko/Moringa-school-landing-page/moringa.html
+https://eliudkw.github.io/moringa_school_landing_page/
 
 
 ###Technology Used
