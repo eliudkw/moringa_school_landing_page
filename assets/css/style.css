@@ -180,7 +180,7 @@ h3 {
 }
 
 .cards{
-    border: 1px solid forestgreen;
+    /*border: 1px solid forestgreen;*/
     display: flex;
     /*flex-flow: wrap row;*/
     /*justify-content: center;*/
@@ -197,7 +197,7 @@ h4 {
 
 .mentor-card {
     background-color: white;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     /*width: 10vh;*/
     width: 240px;
     height: 450px;
