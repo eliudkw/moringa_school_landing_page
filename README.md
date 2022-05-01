@@ -60,6 +60,7 @@ As a user of the web page, you will be able to:
 https://eliudkw.github.io/moringa_school_landing_page/
 
 
+
 ###Technology Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
