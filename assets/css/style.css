@@ -189,13 +189,20 @@ h3 {
 h4 {
     color: #EC4067;
 }
+.mentor-card ,.img-0 {
+    object-fit: contain;
+    /*width: 140px;*/
+    /*height: 140px;*/
+}
 
 .mentor-card {
     background-color: white;
+    border: 1px solid red;
+    /*width: 10vh;*/
     width: 240px;
     height: 450px;
-    display: flex;
-    flex-direction: column;
+    /*display: flex;*/
+    /*flex-direction: column;*/
     /*object-fit: contain;*/
     margin: 10px;
 
