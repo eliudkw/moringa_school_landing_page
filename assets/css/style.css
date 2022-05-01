@@ -198,30 +198,30 @@ h3 {
     /*object-fit: contain;*/
     margin-bottom: 10px;
     /*background-image: url("../images/image 5.png");*/
+}
+/*}*/
+/*.img-5 {*/
+/*    background-image: url("../images/image 5.png");*/
+/*    !*height: 150px;*!*/
+/*    background-size: cover;*/
 
-}
-.img-5 {
-    background-image: url("../images/image 5.png");
-    /*height: 150px;*/
-    background-size: cover;
 
-
-}
-.img-6 {
-    background-image: url("../images/image 6.png");
-    /*height: 150px;*/
-    background-size: cover;
-}
-.img-7 {
-    background-image: url("../images/image 7.png");
-    /*height: 150px;*/
-    background-size: cover;
-}
-.img-8 {
-    background-image: url("../images/image 8.png");
-    /*height: 150px;*/
-    background-size: cover;
-}
+/*}*/
+/*.img-6 {*/
+/*    background-image: url("../images/image 6.png");*/
+/*    !*height: 150px;*!*/
+/*    background-size: cover;*/
+/*}*/
+/*.img-7 {*/
+/*    background-image: url("../images/image 7.png");*/
+/*    !*height: 150px;*!*/
+/*    background-size: cover;*/
+/*}*/
+/*.img-8 {*/
+/*    background-image: url("../images/image 8.png");*/
+/*    !*height: 150px;*!*/
+/*    background-size: cover;*/
+/*}*/
 .img-10 img {
     width: 600px;
 }
