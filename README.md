@@ -56,7 +56,7 @@ As a user of the web page, you will be able to:
 [Go Back to the top](#Moringa school landing page)
 
 ### Live Link
--Click the live link at the about section in the main branch or direct link below
+-Click the live link at the about section in the main branch or direct link below <br>
 https://eliudkw.github.io/moringa_school_landing_page/
 
 
