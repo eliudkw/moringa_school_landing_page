@@ -180,23 +180,34 @@ h3 {
 }
 
 .cards{
-    /*border: 1px solid forestgreen;*/
+    border: 1px solid forestgreen;
     display: flex;
-    flex-flow: wrap row;
+    /*flex-flow: wrap row;*/
     /*justify-content: center;*/
+    flex-direction: row;
+}
+h4 {
+    color: #EC4067;
 }
 
 .mentor-card {
     background-color: white;
     width: 240px;
     height: 450px;
+    display: flex;
+    flex-direction: column;
+    /*object-fit: contain;*/
     margin: 10px;
+
 }
 .card-img {
+    margin: 20px;
+    width: 200px;
+    height: 500px;
     /*background-color: aqua;*/
-    /*height: 250px;*/
+    /*width: 150px;*/
     /*object-fit: contain;*/
-    margin-bottom: 10px;
+    /*margin-bottom: 10px;*/
     /*background-image: url("../images/image 5.png");*/
 }
 /*}*/
