@@ -1,5 +1,6 @@
 <h3> Moringa Landing Page </h3>
 <h4>By Eliud Wanja</h4>
+<img src="assets/images/page.png" width="500px">
 <h3>Table of Content</h3>
 
  - [Description](#description)
@@ -12,25 +13,25 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
 
-##Description
+### Description
 
- <p> This project ia a web application for Moringa school landing page showing the various activities that take place at the school including the technical mentors. It has information about the orientation, the board meating and graduation. It also gives a brief introduction of some of the technical mentors.There are also links to direct you tpo other pages such as to see the courses offered and even ask questions.</p>
+ <p> Landing page web forMoringa school showcasing the various activities that take place at the school including the technical mentors. It has information about the orientation, the board meeting and graduation. It also introduces technical mentors.</p>
 
 
 [Go back to the top](#Moringa school landing page)
 
-##Features
+### Features
 
 As a user of the web page, you will be able to:
 
-1.See a description of the events that happen in the school
-2.Ask questions on whatever you want to know
-3.Navigate to other pages that have more information
+* 1.See a description of the events that happen in the school
+* 2.Ask questions on whatever you want to know
+* 3.Navigate to other pages that have more information
 
 
 [Go back to the top](#Moringa school landing page)
 
-##Behaviour Driven Development|
+#### Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 ||:-------------:| :----------:| -----------:|
 |Enter your name| Eliud Wanja|                   |
@@ -42,9 +43,9 @@ As a user of the web page, you will be able to:
 
 [Go back to the top](#Moringa school landing page)
 
-###Requirements
-* Access to  a computer or any other garget
-* Access to internet
+### Requirements
+* Access to  a computer or an electronic device
+* Access to stable internet
 ### Installation Process
  ****
 * Clone to this repo : git clone git@github.com:eliudkw/moringa_school_landing_page.git
@@ -56,22 +57,22 @@ As a user of the web page, you will be able to:
 [Go Back to the top](#Moringa school landing page)
 
 ### Live Link
--Click the live link at the about section in the main branch or direct link below <br>
+- Click the live link at the about section in the main branch or direct link below <br>
 https://eliudkw.github.io/moringa_school_landing_page/
 
 
 
-###Technology Used
-* HTML - which was used to develope the structure off the pages.
-* CSS - which was used to style the User Interface.
+### Technology Used
+* HTML - to develop the structure of the pages.
+* CSS - to style the User Interface.
 
 
 [Go Back to the top](#Moringa school landing page)
 
-##Known Bugs
-*Unwanted space in the page
+#### Known Bugs
+* Unwanted space in the page
 
-##Licence
+#### Licence
 
 MIT License
 Copyright (c) [2022] [Eliud Wanja]
